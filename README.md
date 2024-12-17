@@ -1,4 +1,4 @@
-#Foodie
+# Foodie
 
 
 Foodie is a dynamic application designed to enhance your culinary experiences. Whether you’re a home cook, a food enthusiast, or a restaurant explorer, Foodie helps you discover, organize, and share your love for food.

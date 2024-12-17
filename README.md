@@ -1,9 +1,8 @@
 #Foodie
 
 
-Foodie is a dynamic application designed to enhance your culinary experiences.
+Foodie is a dynamic application designed to enhance your culinary experiences. Whether you’re a home cook, a food enthusiast, or a restaurant explorer, Foodie helps you discover, organize, and share your love for food.
 
-Whether you’re a home cook, a food enthusiast, or a restaurant explorer, Foodie helps you discover, organize, and share your love for food.
 
 **Features**
 
@@ -17,6 +16,8 @@ Favorite Restaurants: Save and review your favorite dining spots.
 Search and Filters: Quickly find recipes or restaurants based on your preferences.
 
 Responsive Design: Accessible on both desktop and mobile devices for convenience.
+
+
 **Technologies Used**
 
 

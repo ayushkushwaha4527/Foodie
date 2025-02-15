@@ -10,6 +10,8 @@ import Error from './components/Error';
 import RestaurantMenu from './components/RestaurantMenu';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Cart from './components/Cart';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
 
 
 const About = lazy(() => import("./components/About"))
